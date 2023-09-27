@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/dentonwong/dentonwong/blob/main/2560x1600-3003560-2372x1680-pixel-art-san-francisco.png" align="center" alt="San Francisco Banner Pixel Art" style="width: 300px; height: 337px; object-fit: cover; object-position: 100% 0;" />
+<img src="https://github.com/dentonwong/dentonwong/blob/main/edited-pixel-art-san-francisco.png" align="center" alt="San Francisco Banner Pixel Art" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">Hi, I'm Denton, a motivated full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</div>  
-  
+
 
 - 🚧 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)  
   
