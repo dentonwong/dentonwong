@@ -11,11 +11,13 @@
 
 - 🚧 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)  
   
+- 💬 Ask me about anything related to Javascript/Typescript and software development!
+    
+- 👯 Always on the lookout to collaborate on open-source projects!
 
-- 💬 Ask me about anything related to Javascript/Typescript and related technologies!  
-  
+- 📫 You can reach me via <a href="mailto:denton.wong@gmail.com">e-mail</a>
 
-- 🏹 When not programming, I like to do recurve bow archery!  
+- 🏹 When not programming, I like to do recurve bow archery!
   
 
 <br/>  
