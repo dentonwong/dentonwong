@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dentonwong/dentonwong/blob/main/2560x1600-3003560-2372x1680-pixel-art-san-francisco.png">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
