@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://github.com/dentonwong/dentonwong/blob/main/edited-pixel-art-san-francisco.png" align="center" alt="San Francisco Banner Pixel Art" style="width: 100%" />
 </div>  
+<div align="center">
   
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai )](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 <div align="center"> <h3>Hi, I'm Denton, a motivated full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</h3></div>  
 
@@ -44,7 +47,6 @@
 </tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
