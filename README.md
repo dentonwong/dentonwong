@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Denton, a motivated full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</div>  
+<div align="center"> <h3>Hi, I'm Denton, a motivated full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</h3></div>  
 
 
 - 🚧 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)  
