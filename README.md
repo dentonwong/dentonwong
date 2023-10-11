@@ -6,7 +6,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai )](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
-<div align="center"> <h3>Hi, I'm Denton, a motivated full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</h3></div>  
+<div align="center"> <h3>Hi, I'm Denton, a product driven full-stack software developer 👨‍💻 who is passionate about building things! 🏗️</h3></div>  
 
 
 - 🚧 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)  
